@@ -1,16 +1,18 @@
-## Hi there 👋
+# Yiranesh Visvanathan
 
-<!--
-**Yiranesh/Yiranesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught programmer from Pulau Pinang, Malaysia.
+Currently awaiting Computer Science university intake.
 
-Here are some ideas to get you started:
+I picked up programming on my own and built these projects
+to get hands-on experience before university.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+-  Weather App- (https://github.com/Yiranesh/weather-app-web) - Python + Flask web app with live weather, 5-day forecast and city comparison · [Live demo](https://yiranesh.github.io/my-portfolio/)
+-  Student Grade Calculator- (https://github.com/Yiranesh/Student-grade-calculator) - calculates letter grades, GPA and CGPA with Dean's List status
+-  Expense Tracker- (https://github.com/Yiranesh/Expense-tracker) - logs daily expenses to a JSON file with category and monthly summaries
+
+## Skills
+Python · Flask · HTML · CSS · REST APIs · Git
+
+## Portfolio
+https://yiranesh.github.io/my-portfolio/
